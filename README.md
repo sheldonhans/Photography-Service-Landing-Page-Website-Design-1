@@ -1,4 +1,4 @@
-#  💪 Responsive Photography Service Landing Page Website Design
+# Responsive Photography Service Landing Page Website Design
 
 
 

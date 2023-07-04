@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --accent-text: "IBM Plex Sans";
+  --font-font-awesome-6-brands: "Font Awesome 6 Brands";
+  --icon-small: "Font Awesome 6 Free";
+
+  /* font sizes */
+  --accent-text-size: 14px;
+  --icon-small-size: 20px;
+  --body-size: 17px;
+  --heading-standar-size: 25px;
+  --heading-big-size: 45px;
+  --heading-extra-small-size: 18px;
+  --heading-medium-size: 35px;
+  --font-size-base: 16px;
+  --heading-very-big-size: 60px;
+
+  /* Colors */
+  --primary: #272635;
+  --white-overlay: rgba(255, 255, 255, 0.75);
+  --border-overlay: rgba(255, 255, 255, 0.25);
+  --white: #fff;
+  --secondary: #a6a6a8;
+  --white-smoke: #f9f9f9;
+  --heading: #2d2d2d;
+  --body: #6e6e6e;
+  --tertiary: #cecece;
+  --color-goldenrod: #efa536;
+
+  /* Gaps */
+  --gap-41xl: 60px;
+  --gap-11xl: 30px;
+  --gap-6xl: 25px;
+  --gap-mini: 15px;
+  --gap-16xl: 35px;
+  --gap-xl: 20px;
+  --gap-3xs: 10px;
+  --gap-31xl: 50px;
+  --gap-6xs: 7px;
+  --gap-26xl: 45px;
+
+  /* Paddings */
+  --padding-81xl: 100px;
+  --padding-11xl: 30px;
+  --padding-12xs: 1px;
+  --padding-xl: 20px;
+  --padding-31xl: 50px;
+  --padding-16xl: 35px;
+  --padding-mini: 15px;
+  --padding-19xl: 38px;
+  --padding-21xl: 40px;
+  --padding-41xl: 60px;
+  --padding-6xl: 25px;
+}

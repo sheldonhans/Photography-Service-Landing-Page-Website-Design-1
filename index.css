@@ -156,7 +156,7 @@
   font-size: var(--heading-very-big-size);
 }
 .header {
-  width: 1900px;
+  
   padding: 0 var(--padding-81xl) var(--padding-81xl);
   box-sizing: border-box;
   justify-content: flex-start;
